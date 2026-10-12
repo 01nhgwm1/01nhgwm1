@@ -1,0 +1,15 @@
+{
+  "agent": "9EWLPeCSZnxi8FsnutaTxffsLnno6Q3wMx9W5mexy8XB",
+  "github_login": "01nhgwm1",
+  "issued_at": 1791840426,
+  "kind": "units-github-genesis",
+  "launch_tx": null,
+  "mint": "HbZHfk9EYDzAEJQBBUFm4JBehFSWHqA2U7K2nAiBH636",
+  "network": "mainnet",
+  "sig": "53J1rQrjeWybypY9y7wvn4Y8zJ72NHxH17FMKucNi59xGeRShmfKPvPa6MwS4Ubi4JWiEQHvV3bS97TEpzkxND5T",
+  "signer": "49RSsrPnw5vJpUXKxtveFLgM4KRevyJCtEzEewrbtHWj",
+  "site": "https://main-157-245-71-188.sslip.io",
+  "soul_digest": "28f91a442fe0d54dd8ddce330e21ffc28e6f04cb55907738432f9143dff44232",
+  "target_repo": "https://github.com/keis/base58",
+  "v": 1
+}
